@@ -5,7 +5,7 @@ DROP TABLE IF EXISTS EMPLOYEES;
 CREATE TABLE EMPLOYEES (
                             EMP_ID CHAR(9) NOT NULL, 
                             F_NAME VARCHAR(15) NOT NULL,
-                            L_NAME VARCHAR(15) NOT NULL,
+                            L_N	AME VARCHAR(15) NOT NULL,
                             SSN CHAR(9),
                             B_DATE DATE,
                             SEX CHAR,
